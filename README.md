@@ -12,7 +12,7 @@ Target is one of the world’s most recognized brands and one of America’s lea
   
 ## Studying the dataset and generating insights & recommendations:
 - **Studying the data (using SQL)**
-  - Data type of the columns in all table.
+  - Data type of all the columns across all tables.
   - Time period for which the data is given.
   - Cities and states covered in the dataset.
   - Is there a growing trend on e-commerce in Brazil? Can we see some seasonality with peaks at specific months?
